@@ -66,4 +66,4 @@ For the testing I have created the postman collection
 where all the routes are there for easy get idea about the request and response
 
 # POSTMAN collection URL 
-https://api.postman.com/collections/28652344-b95fa7a7-3b73-4730-a7f6-d22875f5568b?access_key=PMAT-01HAYF0H8A8WDNK6BK8MFR184Z
+https://api.getpostman.com/collections/26417570-69cc582e-ab3f-4e1b-93f8-c8cc8fb43976
