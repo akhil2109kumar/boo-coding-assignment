@@ -65,5 +65,3 @@ After running the start command the server will start on localhost:3001
 For the testing I have created the postman collection
 where all the routes are there for easy get idea about the request and response
 
-# POSTMAN collection URL 
-https://api.getpostman.com/collections/26417570-69cc582e-ab3f-4e1b-93f8-c8cc8fb43976
